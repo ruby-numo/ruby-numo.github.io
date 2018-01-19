@@ -1,7 +1,8 @@
-title: Ruby/Numo::NArray
-description: Numerical N-dimensional array class for Ruby, similar to numpy.ndarray.
-google_analytics: 
-show_downloads: true
+title: Ruby/Numo
+description: NUmerical MOdules for Ruby based on Numo::NArray class
+
+google_analytics:
+show_downloads: false
 theme: jekyll-theme-cayman
 
 gems:
